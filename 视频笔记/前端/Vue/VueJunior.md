@@ -158,7 +158,7 @@ new Vue({
 - `V`: 视图(View), 模版代码, 最终呈现给用户的内容
 - `VM`: 视图模型(ViewModel), Vue实例, 用来将Model渲染到View中, 并监听View中的数据, 反馈给Model
 
-![image-20240129225202768](http://192.168.1.12:8089/i/2024/01/29/65b7bb98aa8c9.png)
+![image-20240129225202768](./assets/65b7bb98aa8c9.png)
 
 > data中的所有属性, 最后都会出现在VM(vue实例对象)身上. 这些属性以及Vue原型上所有属性, 在Vue模版(即View)中都可以直接使用
 
